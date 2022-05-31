@@ -16,6 +16,7 @@ Along with starting my journey into the world of development 5 years back i had 
 <img align="center" src="https://user-images.githubusercontent.com/31470135/171231108-6c435a86-1a05-4878-bafe-04d5763cf9ea.png" height="50" /> 
 </p>
 
+## Few stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=anupkgurung&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
