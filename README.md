@@ -1,4 +1,4 @@
-## 👋 <> Hey there, you have reached to Anup Kumar Gurung </>
+## 👋 <> Hey there, you just stumbled onto Anup Kumar Gurung </>
 
 Learning Web Development currently ``@NEOG``. </br>
 Along with starting my journey into the world of development 5 years back i had a chance of working in a large scale product in the domain of hospitality and banking. I also had an experience of working with front end tenchnologies which made me curious to go for `javascript` and do the magic.
